@@ -1,0 +1,196 @@
+body{
+    margin: 0;
+    padding: 0; 
+    font-family: 'Scope One', serif;
+}   
+ 
+.header{  
+    height: 900px;   
+    background-image: url("../images/banner.jpg");
+    background-size:cover ;  
+    background-position:center top ;  
+    color: white;
+}
+ 
+.header ul{  
+    float:right;
+} 
+ 
+.top-ul li{ 
+    float: left; 
+    list-style: none;
+    margin: 20px;  
+    position: relative; 
+    bottom: 50px; 
+    
+} 
+ 
+.center{  
+    text-align: center; 
+    margin: 0 auto;   
+    margin-top: 125px; 
+    line-height: 25px;   
+} 
+  
+.center p{ 
+    color: aliceblue;
+}
+
+button{ 
+    margin-top: 10px; 
+
+} 
+ 
+.three-box{   
+    background-color:black; 
+    color:white; 
+    font-size: 10px;  
+    line-height: 20px;
+    
+ } 
+ 
+.three-box h2{ 
+    font-size:large;  
+} 
+   
+span{ 
+       margin-left: 80px; 
+} 
+ 
+.three-box .fa{  
+    font-size: 30px; 
+    margin-top: 10px; 
+} 
+ 
+p{ 
+    position: relative; 
+    top: 10px; 
+    color: gray;
+} 
+
+.three-button{  
+    margin-left: 50px;
+}   
+ 
+.last-box{  
+    height: 1000px;
+    background-color:gray;
+    margin-top: 20px; 
+
+} 
+ 
+.left-box{ 
+    height: 900px;    
+} 
+ 
+.left-box p{  
+    color:gainsboro; 
+
+}   
+ 
+.right-box{ 
+    height: 900px;     
+}  
+ 
+.right-box p{  
+    color:gainsboro; 
+
+}   
+ 
+img{
+    width: 100%;
+} 
+
+.augue-box{  
+    margin-top: 20px; 
+    position: relative; 
+    top:10px;
+}   
+   
+ /* left-box end*/
+
+ /* right-box stats*/ 
+  
+ ul li{ 
+     line-height: 30px;
+} 
+ 
+
+ 
+.box1 li{  
+    position: relative; 
+    right: 50px; 
+    border-bottom: 0.5px solid;   
+}  
+ 
+.right-box h2{  
+    position: relative; 
+    right: 25px;
+
+}  
+ 
+.img1{ 
+    height: 120px; 
+   
+   
+} 
+ 
+.img1 img{ 
+    width:14%; 
+    float:left;
+}
+ 
+.img1 p{ 
+    float:right; 
+    margin-right: 35%;  
+    
+} 
+
+.img2 img{ 
+    width:15%; 
+    float:left;
+}
+ 
+.img2 p{ 
+    position: relative; 
+    left: 10%;
+}
+ 
+.img3 img{ 
+    width:15%; 
+    float:left;
+}
+ 
+.img3 p{ 
+    position: relative; 
+    left: 10%;
+} 
+ 
+.img4{  
+    margin-top: 20px;
+     
+
+} 
+.img4 img{ 
+    width:15%; 
+    float:left; 
+}
+ 
+.img4 p{ 
+    position: relative; 
+    left: 10%;
+}
+
+.design-box{ 
+    text-align: center; 
+    color: white;
+}  
+.design-box p{ 
+    color: white; 
+    
+}
+ 
+
+    
+
+ 
